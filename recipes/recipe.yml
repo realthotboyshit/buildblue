@@ -53,6 +53,7 @@ modules:
           - dev.edfloreshz.CosmicTweaks
           - com.surfshark.Surfshark
           - com.google.Chrome
+          - com.github.rafostar.Clapper
       - scope: user # Also add Flathub user repo, but no user packages
 
   - type: script
